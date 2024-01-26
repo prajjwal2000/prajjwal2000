@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @prajjwal2000
-- 👀 I’m interested in Android app Development
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning c#
 - 💞️ I’m looking to collaborate on ...
 - 📫 Mail me on prajjwaldaswork@gmail.com
